@@ -1,4 +1,4 @@
-# Aurora-Hack-The-Spectrum
+# Health-Connect
 
 **Problem Statement:**
 In today's fast-paced world, managing health appointments efficiently is crucial.
